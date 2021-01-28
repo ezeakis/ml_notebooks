@@ -11,4 +11,6 @@ scikit-learn==0.24.1
 threadpoolctl==2.1.0
 
 #this is a downgrade due to fbprophet
-convertdate==2.2.0
+#convertdate==2.2.0
+#lunarcalendar is not found
+#which fbprophet version?
